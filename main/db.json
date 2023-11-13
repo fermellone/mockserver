@@ -1,0 +1,51 @@
+{
+  products: [
+    {
+        id: 'asd1231wsd21',
+        name: "Taza artesanal café",
+        description: "Lorem ipsum dolor sit amet, consectetur adipisc elit, sed do eiusmod tempor",
+        price: 10.00,
+        image: "https://via.placeholder.com/313x200",
+    },
+    {
+        id: 'asd1231wsd22',
+        name: "Taza artesanal blanca",
+        description: "Lorem ipsum dolor sit amet, consectetur adipisc elit, sed do eiusmod tempor",
+        price: 10.00,
+        image: "https://via.placeholder.com/313x200",
+    },
+    {
+        id: 'asd1231wsd23',
+        name: "Kit de tazas artesanales varias",
+        description: "Lorem ipsum dolor sit amet, consectetur adipisc elit, sed do eiusmod tempor",
+        price: 30.00,
+        image: "https://via.placeholder.com/313x200",
+    },
+    {
+        id: 'asd1231wsd24',
+        name: "Tazón artesanal beige",
+        description: "Lorem ipsum dolor sit amet, consectetur adipisc elit, sed do eiusmod tempor",
+        price: 15.00,
+        image: "https://via.placeholder.com/313x200",
+    },
+    {
+        id: 'asd1231wsd25',
+        name: "Taza artesanal multi-color",
+        description: "Lorem ipsum dolor sit amet, consectetur adipisc elit, sed do eiusmod tempor",
+        price: 10.00,
+        image: "https://via.placeholder.com/313x200",
+    },
+    {
+        id: 'asd1231wsd26',
+        name: "Taza artesanal café",
+        description: "Lorem ipsum dolor sit amet, consectetur adipisc elit, sed do eiusmod tempor",
+        price: 10.00,
+        image: "https://via.placeholder.com/313x200",
+    }
+  ],
+  user: {
+    id: "asda2212wwqe11",
+    name: "María González",
+    description: "Un mundo de artesanías con un elemento principal: cerámica"
+  }
+}
